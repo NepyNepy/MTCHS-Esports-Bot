@@ -21,7 +21,7 @@ const generateImage = require("./generateImage")
 
 // The Bots Token will be used in different areas see the end of this file for more information on if the token breaks.
 // The reason why this is commented out is because of .env Use this to trouble shoot when needed.
-//const TOKEN = "OTM1OTA1Mzk3NTAyNTE3MjY4.YfFb0w.rfXgioMFNEUxY510LBGSRcAI9ig";
+
 
 // Creating our "bot" by making a clinet
 const client = new Discord.Client({
