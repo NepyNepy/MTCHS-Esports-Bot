@@ -1,9 +1,11 @@
+const { DiscordAPIError } = require("discord.js")
+
 module.exports = {
     name: "cmd",
     category: "info",
     permissions: [],
     devOnly: false,
-    run: async ({client, message, args, prefix}) => {
+    run: async ({client, message, args, prefix, Discord}) => {
 
         // Option 1: message.content.split(" ")
         // Option 2: message.content.split(" ").slice(2).join(" ")
