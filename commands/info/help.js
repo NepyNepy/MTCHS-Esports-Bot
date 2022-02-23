@@ -12,7 +12,7 @@ module.exports = {
         // Option 1: message.content.split(" ")
         // Option 2: message.content.split(" ").slice(2).join(" ")
 
-        message.reply("```Welcome to the MTCHS eSports Bot! Current commands for public use are listed in each sub-section.\n\n-!cmd xp\n\n-!cmd sr\n\n-!cmd all\n\nIf you have any questions contact QT_NepyNepy#4416 on discord```")
+        message.reply("```asciidoc\n** Current Active Commands ** \n------------------------------- \n**Overwatch Commands** \n- !help\n- !gen 1/2/3 \n- !random tank/damage/support/all\n- !sr \n- !xp \n- More Soon! \n\n**League of Legend Commands** \n- More Soon! \n\n**Rocket League Commands** \n- More Soon! \n\n```")
         // if (firstValue === "xp") {
         //     message.reply("XP command required your level in a number. Each star is 100 levels, plus the samll number next to it.\nEx. If you are bronze border with 2 stars and level 91\n**!xp 291**")
     
@@ -27,12 +27,13 @@ module.exports = {
     
         //     }
         
+        }
 
         
         
         
     }
-}
+
 
     
 
