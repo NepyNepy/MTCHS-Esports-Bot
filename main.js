@@ -36,7 +36,7 @@ const client = new Discord.Client({
 // If this project goes to new Seniors please contact me on discord or via email at QT_NepyNepy#4416 or zacharyn.chrysler@gmail.com
 let bot = {
     client,
-    prefix: "!",
+    prefix: "!!",
     owners: ["206826675277791232"]
 }
 
