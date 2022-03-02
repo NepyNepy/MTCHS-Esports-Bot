@@ -4,7 +4,7 @@ module.exports = {
     permissions: [],
     devOnly: false,
     run: async ({client, message, args}) => {
-        message.reply("Pong")
+        message.reply("<@&948241734226292736>")
         
     }
 
