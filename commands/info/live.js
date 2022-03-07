@@ -30,7 +30,7 @@ module.exports = {
            message.reply("<@&948241734226292736> EternalFlame is going live!\n" + "https://www.twitch.tv/eternalflame")
 
        } else if (firstValue === "DayDream" || firstValue === "Daydream" || firstValue === "daydream") {
-        message.reply("<@&948241734226292736> DayDream is going live!\n" + "https://www.twitch.tv/daydream")
+        message.reply("<@&948241734226292736> DayDream is going live!\n" + "https://www.twitch.tv/daydream930")
        
        }  else if (firstValue === "BigBoofington" || firstValue === "Bigboofington" || firstValue === "bigboofington") {
         message.reply("<@&948241734226292736> BigBoofington is going live!\n" + "https://www.twitch.tv/bigboofington")

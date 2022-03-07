@@ -52,6 +52,7 @@ client.loadCommands(bot, false)
 
 module.exports = bot
 
+
 /*
 * Testing line of code to have the bot send a message on startup *In Console*
 */
